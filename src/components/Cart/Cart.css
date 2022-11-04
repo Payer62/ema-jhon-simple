@@ -1,4 +1,9 @@
-.cart-info .cart-title{
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 20px 15px;
+}
+.cart .cart-title{
     text-align: center;
     font-family: 'Lato';
     font-style: normal;
